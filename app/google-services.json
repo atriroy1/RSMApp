@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "416279252153",
+    "firebase_url": "https://rsmapp-704eb.firebaseio.com",
+    "project_id": "rsmapp-704eb",
+    "storage_bucket": "rsmapp-704eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416279252153:android:c5292f5503394a9cf31f68",
+        "android_client_info": {
+          "package_name": "com.atri.rsmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416279252153-s7n4u31694ivo1s14aluvnama3mbtda5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atri.rsmapp",
+            "certificate_hash": "8beb099a540525beac0fe690506d0b7b5a8639fd"
+          }
+        },
+        {
+          "client_id": "416279252153-sd9k7r7ssfsvkd849fkeg368s3i8momv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0dNBmUcC-fnakSeZCnGu4hgL5j9fjlG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416279252153-sd9k7r7ssfsvkd849fkeg368s3i8momv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
